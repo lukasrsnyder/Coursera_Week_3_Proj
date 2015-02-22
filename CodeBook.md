@@ -1,10 +1,10 @@
 #CodeBook
 
 ##Variable
--ID: The ID given to the subject
--status.desc: a description of the activity which the subject performed
--variable: the description of the measure which was taken for each subject/activity
--mean: the mean of the variable across each subject/activity
+- ID: The ID given to the subject
+- status.desc: a description of the activity which the subject performed
+- variable: the description of the measure which was taken for each subject/activity
+- mean: the mean of the variable across each subject/activity
 
 ##Data
 The raw data was source from here:
